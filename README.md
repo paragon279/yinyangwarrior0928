@@ -1,4 +1,13 @@
-### Hi there 👋
+## Who I am
+### Richard Kennedy, Security Researcher
+## Certificates
+
+### Certified C++ Engineer
+https://www.testdome.com/certificates/7e07d817902e4efa9352cc19be71dbf3
+### Teamwork
+https://www.testdome.com/certificates/b25c9deb517c4e229d224418970632a31
+### People Management
+https://www.testdome.com/certificates/134d7315ad404f6798398d5e649df85c
 
 <!--
 **yinyangwarrior0928/yinyangwarrior0928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
