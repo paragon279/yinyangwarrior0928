@@ -1,8 +1,8 @@
 ## Who I am
-### Richard Kennedy, Security Researcher
+### Richard Kennedy
 ## Certificates
 
-### Certified C++ Engineer
+### C++
 https://www.testdome.com/certificates/7e07d817902e4efa9352cc19be71dbf3
 ### Teamwork
 https://www.testdome.com/certificates/b25c9deb517c4e229d224418970632a3
