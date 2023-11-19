@@ -4,6 +4,8 @@
 
 ### C++
 https://www.testdome.com/certificates/7e07d817902e4efa9352cc19be71dbf3
+### SQL
+https://www.testdome.com/certificates/bbbebd8cc49c4fd8812c84099e8d8a37
 ### Teamwork
 https://www.testdome.com/certificates/b25c9deb517c4e229d224418970632a3
 ### People Management
