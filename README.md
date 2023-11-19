@@ -2,6 +2,8 @@
 ### Richard Kennedy
 ## Certificates
 
+### Cybersecurity
+https://www.testdome.com/certificates/44dc0cb19ca54b9bb5551560d84fd80a
 ### C++
 https://www.testdome.com/certificates/7e07d817902e4efa9352cc19be71dbf3
 ### SQL
