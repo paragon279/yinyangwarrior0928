@@ -2,16 +2,11 @@
 ### Richard Kennedy
 ## Certificates
 
-### Cybersecurity
-https://www.testdome.com/certificates/44dc0cb19ca54b9bb5551560d84fd80a
-### C++
-https://www.testdome.com/certificates/7e07d817902e4efa9352cc19be71dbf3
-### SQL
-https://www.testdome.com/certificates/bbbebd8cc49c4fd8812c84099e8d8a37
-### Teamwork
-https://www.testdome.com/certificates/b25c9deb517c4e229d224418970632a3
-### People Management
-https://www.testdome.com/certificates/134d7315ad404f6798398d5e649df85c
+#### <a href="https://www.testdome.com/certificates/44dc0cb19ca54b9bb5551560d84fd80a">Cybersecurity Top Ranking 10%</a>
+#### <a href="https://www.testdome.com/certificates/7e07d817902e4efa9352cc19be71dbf3">C++ Engineering Top Ranking 10%</a>
+#### <a href="https://www.testdome.com/certificates/bbbebd8cc49c4fd8812c84099e8d8a37">SQL Top Ranking 10%</a>
+#### <a href="https://www.testdome.com/certificates/b25c9deb517c4e229d224418970632a3">Teamwork Top Ranking 25%</a>
+#### <a href="https://www.testdome.com/certificates/134d7315ad404f6798398d5e649df85c">People Management Top Ranking 10%</a>
 
 <!--
 **yinyangwarrior0928/yinyangwarrior0928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
