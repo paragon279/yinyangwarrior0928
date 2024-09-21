@@ -1,6 +1,4 @@
-## Who I am
-### Richard Kennedy
-## Certificates
+## My Certificates
 
 #### <a href="https://www.testdome.com/certificates/44dc0cb19ca54b9bb5551560d84fd80a">Cybersecurity Top Ranking 10%</a>
 #### <a href="https://www.testdome.com/certificates/7e07d817902e4efa9352cc19be71dbf3">C++ Engineering Top Ranking 10%</a>
